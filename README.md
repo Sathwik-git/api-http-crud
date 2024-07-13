@@ -6,23 +6,23 @@
 
 <ul>
 <li>
-    <h4>Create a DynamoDB table</h4>
+    **Create a DynamoDB table**
     <img src="images/dynamodb.png">
 </li>
 <li>
-    <h4>Create a lambda function</h4>
+    **Create a lambda function**
     <img src="images/lambda_fn.png">
 </li>
 <li>
-    <h4>Create an HTTP API</h4>
+    **Create an HTTP API**
     <img src="images/api.png">
 </li>
 <li>
-    <h4>Create routes and attach integration(lambda function) to routes</h4>
+    **Create routes and attach integration(lambda function) to routes**
     <img src="images/api_routes.png">
 </li>
 <li>
-    <h4>Testing the API</h4>
+    **Testing the API**
     <img src="images/dynamodb_final.png">
 </li>
 </ul>
