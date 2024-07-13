@@ -4,8 +4,27 @@
 
 <div align="center"><img src="https://github.com/Sathwik-git/api-http-crud/assets/126125648/3ebef6da-cf5a-41aa-8a1c-e5c6d9072c43"></div>
 
-<img src="images/dynamodb.png">
-<img src="images/api.png">
-<img src="images/api_routes.png">
-<img src="images/lambda_fn.png">
-<img src="images/dynamodb_final.png">
+<ol>
+<li>
+    <h3>Create a DynamoDB table</h3>
+    <img src="images/dynamodb.png">
+</li>
+<li>
+    <h3>Create a lambda function</h3>
+    <img src="images/lambda_fn.png">
+</li>
+<li>
+    <h3>Create an HTTP API</h3>
+    <img src="images/api.png">
+</li>
+<li>
+    <h3>Create routes and attach integration to routes</h3>
+    <img src="images/api_routes.png">
+</li>
+<li>
+    <h3>Testing the API</h3>
+    <img src="images/dynamodb_final.png">
+</li>
+</ol>
+
+
