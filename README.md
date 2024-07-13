@@ -4,7 +4,7 @@
 
 <div align="center"><img src="https://github.com/Sathwik-git/api-http-crud/assets/126125648/3ebef6da-cf5a-41aa-8a1c-e5c6d9072c43"></div>
 
-<ol>
+<ul>
 <li>
     <h3>Create a DynamoDB table</h3>
     <img src="images/dynamodb.png">
@@ -25,6 +25,6 @@
     <h3>Testing the API</h3>
     <img src="images/dynamodb_final.png">
 </li>
-</ol>
+</ul>
 
 
